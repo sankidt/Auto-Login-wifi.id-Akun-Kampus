@@ -72,5 +72,4 @@ add dont-require-permissions=yes name=autologin_kampus_work owner=msn00 \
     \n:local lognya [/file get wifi.id.txt contents];\r\
     \n/log warning \$lognya;"
 ```
-# Full Tutorial
-https://youtu.be/JCmZtD8wcOo
+
